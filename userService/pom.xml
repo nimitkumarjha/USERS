@@ -16,10 +16,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
- <sonar.projectKey>nimit</sonar.projectKey>
-  <sonar.organization>nimitkumarjha</sonar.organization>
-  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-  <sonar.login>68303e43a71b73e351bb50ef92a98debc6b146b3</sonar.login>
+ 
 
 	</properties>
    <dependencyManagement>
